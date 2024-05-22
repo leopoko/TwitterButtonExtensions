@@ -1,0 +1,7 @@
+TwitterButtonExtensions
+ツイッターにボタンを追加する拡張
+
+ツイッターの投稿に付いているボタンを増やすchrome拡張です。ボタンを押すとAPIにツイートの内容をPOSTします。
+content.jsをいじることでapiの送り先を変えられます。
+
+icon1_moはマウスオーバー時のアイコンです。
