@@ -5,3 +5,7 @@ TwitterButtonExtensions
 content.jsをいじることでapiの送り先を変えられます。
 
 icon1_moはマウスオーバー時のアイコンです。
+
+
+↓はdiscordのbotと連携させた様子
+https://x.com/ark_kamaboko/status/1793281505206440390
